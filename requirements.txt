@@ -1,4 +1,0 @@
-streamlit
-google-generativeai
-PyMuPDF
-streamlit-mic-recorder
